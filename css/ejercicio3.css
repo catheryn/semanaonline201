@@ -1,0 +1,104 @@
+.contenido {
+  width: 50%;
+  margin: 0 auto;
+}
+.caja_bandera {
+  width: 50%;
+  max-width: 450px;
+  float: left;
+  padding: 10px;
+  box-sizing: border-box;
+}
+
+.emiratos, .espana , .dinamarca, .japon {
+  border: 1px solid #000;
+  height: 170px;
+}
+
+.nombre {
+  padding-top: 15px;
+  padding-bottom: 30px;
+}
+
+/*españa*/
+.rojo {
+  background-color: #fc0d1b;
+  height: 50px;
+}
+
+.amarillo {
+  background-color: #fefc38;
+  height: 70px;}
+
+/*dinamarca*/
+.rojo_pequeno{
+  width: 30%;
+  height: 85px;
+  background-color: #fc0d1b;
+  float: left;
+
+}
+
+.rojo_grande{
+  width: 60%;
+  height: 85px;
+  background-color: #fc0d1b;
+  float: right;
+}
+
+.blanco_vertical {
+  width: 9%;
+  height: 85px;
+  float: left;
+}
+
+.blanco_horizontal {
+  display: block;
+  height: 25px;
+  background-color: #fff;
+  width: 100%;
+  position: relative;
+  top: 42%;
+}
+
+
+/*emiratos*/
+.rojo-emiratos {
+  z-index: 9;
+  width: 70px;
+  height: 170px;
+  background-color: #fc0d1b;
+  position: absolute;}
+
+.verde {
+background-color: #0f7f12;
+height: 57px;
+}
+
+.blanco {
+  background-color: #fff;
+  height: 57px;
+}
+
+.negro {
+   background-color: #000;
+   height: 57px;
+}
+
+
+.bandera-emiratos {
+  position: relative;
+}
+
+/*japon*/
+
+.japon {height: 170px;}
+.circulo-japon {
+  width: 70px;
+  height: 70px;
+  border-radius: 35px;
+  background-color: #fc0d1b;
+  margin: 0 auto;
+  margin-top: 50px;
+
+}

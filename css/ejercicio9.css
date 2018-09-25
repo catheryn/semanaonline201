@@ -1,0 +1,28 @@
+body {
+  margin: 0px;
+}
+
+.cajaTitulo {
+  background-color: #000;
+  color: #fff;
+  font-size: 50px;
+  padding: 20px 30px;
+}
+
+.cajaMenu {
+  background-color: #73d6b8;
+  width: 30%;
+  float: left;
+  padding: 40px 20px;
+  box-sizing: border-box;
+  height:100vh;
+}
+
+.cajaTexto {
+  background-color: #c6dbdb;
+  width: 70%;
+  float: left;
+  padding: 40px 40px;
+  box-sizing: border-box;
+  height:100vh;
+}

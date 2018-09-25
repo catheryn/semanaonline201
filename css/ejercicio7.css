@@ -1,0 +1,8 @@
+body {
+  background-color: #f49c90;
+}
+
+.sticky {
+  position: fixed;
+right: 0px;
+}

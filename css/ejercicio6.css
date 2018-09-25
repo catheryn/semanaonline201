@@ -1,0 +1,22 @@
+.caja_producto{
+  border: 1px solid #dedede;
+  height: 200px;
+  width: 200px;
+  position: relative;
+}
+img.bateria {
+  height: 100%;
+}
+
+.despacho {
+  position: absolute;
+  width: 50px;
+  right: 10px;
+  bottom: 10px;
+}
+.descripcion {
+  font-size: 14px;
+  padding-top: 10px;
+  color: #888888;
+
+}
